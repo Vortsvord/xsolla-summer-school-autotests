@@ -1,0 +1,1 @@
+# xsolla-summer-school-autotests
