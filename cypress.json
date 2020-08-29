@@ -1,1 +1,7 @@
-{}
+{
+  "baseUrl": "http://localhost:9000/",
+  "chromeWebSecurity": false,
+  "env": {
+    "testName": "Rigel"
+  }
+}
